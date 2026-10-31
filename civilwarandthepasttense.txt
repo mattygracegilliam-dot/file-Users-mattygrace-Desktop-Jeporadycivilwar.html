@@ -1,0 +1,16 @@
+# Civil War 
+100 | What group of people was taken and sold as slaves? | Africans | download.jpg
+200 | Name one war fought by the United States in the 1800s.| The Civil War | american-civil-war-battle-300x213.jpg
+300 | Name the U.S. war between the North and the South. | Civil War | american-civil-war-battle-300x213.jpg
+400 | The Civil War had many important events. Name one | Emancipation Proclamation | images-2.jpg | 
+500 | What did the Emancipation Proclamation do | Freed the Slaves | images-2.jpg
+600 |  Abraham Lincoln is famous for many things. Name one. | Freed the slaves | images-1.jpg
+700 |What U.S. war ended slavery? | The Civil War | american-civil-war-battle-300x213.jpg
+# Past Tense
+100 | What is the past tense of fight? | fought 
+200 | What is the past tense of win | won
+300 | What is the past tense of sell | sold
+400 | What is the past tense of free | freed
+500 | What is the past tense of want | wanted 
+600 | What is the past tense of write | wrote 
+700 | What is the past tense of end | ended
